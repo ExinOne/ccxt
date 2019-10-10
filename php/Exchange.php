@@ -92,6 +92,7 @@ class Exchange {
         'bequant',
         'bibox',
         'bigone',
+        'bigone3',
         'binance',
         'binanceje',
         'binanceus',
